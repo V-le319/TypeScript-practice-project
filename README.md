@@ -22,3 +22,5 @@ You get 6 wrong guesses before the hangman is complete. Correct letters are reve
 - `useCallback` to avoid stale closures in event listeners
 - Conditional rendering and dynamic Tailwind classes
 - Destructuring props in function parameters
+
+https://v-le319.github.io/TypeScript-practice-project/
