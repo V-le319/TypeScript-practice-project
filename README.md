@@ -4,7 +4,8 @@ A classic Hangman word-guessing game built as a TypeScript + React practice proj
 
 ## About
 
-Guess the hidden word by clicking letters or using your keyboard. You get 6 wrong guesses before the hangman is complete. Correct letters are revealed in the word, wrong letters grey out on the keyboard.
+Guess the hidden word by clicking letters or using your keyboard.
+You get 6 wrong guesses before the hangman is complete. Correct letters are revealed in the word, wrong letters grey out on the keyboard.
 
 ## Tech Stack
 
