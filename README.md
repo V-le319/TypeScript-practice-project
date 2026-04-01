@@ -14,6 +14,7 @@ Guess the hidden word by clicking letters or using your keyboard. You get 6 wron
 
 ## What I Learned
 
+- Structure with components
 - Props and typing them with TypeScript
 - `useState` and `useEffect` hooks
 - Lifting state up — managing shared state in a parent component and passing it down as props
