@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TypeScript-practice-project/static/css/main.b9ac9300.css",
+    "main.js": "/TypeScript-practice-project/static/js/main.5eef487e.js",
+    "static/js/453.cb49ecd9.chunk.js": "/TypeScript-practice-project/static/js/453.cb49ecd9.chunk.js",
+    "index.html": "/TypeScript-practice-project/index.html",
+    "main.b9ac9300.css.map": "/TypeScript-practice-project/static/css/main.b9ac9300.css.map",
+    "main.5eef487e.js.map": "/TypeScript-practice-project/static/js/main.5eef487e.js.map",
+    "453.cb49ecd9.chunk.js.map": "/TypeScript-practice-project/static/js/453.cb49ecd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9ac9300.css",
+    "static/js/main.5eef487e.js"
+  ]
+}
